@@ -1,0 +1,11 @@
+{
+  "name": "hebis/hds2-i18n",
+  "description": "description_text",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Sebastian Böttger",
+      "email": "boettger@hebis.uni-frankfurt.de"
+    }
+  ]
+}
